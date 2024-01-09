@@ -1,0 +1,3 @@
+[submodule "NEOM"]
+	path = NEOM
+	url = https://github.com/sruthi3526/NEOM.git
